@@ -32,3 +32,6 @@ Screenshots of the app:
 
 Video walkthrough of the app:
 [https://myrp-my.sharepoint.com/:v:/g/personal/23029589_myrp_edu_sg/EXRCg0minQ9KqUgeB1ON-tYBQoqlgT7xvUoxG2Wozk3XLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=obCwTn]
+
+Code Explanation:
+[https://myrp-my.sharepoint.com/:v:/g/personal/23029589_myrp_edu_sg/EQaZROWAbbdFpBs_A9qnnYUBnBpmv2CtEdtwBnqo35X6jA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gx7DEb]
